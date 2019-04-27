@@ -1,4 +1,4 @@
-A rainbow with rgba colors
+A rainbow with colors and rgba colors
 
 An rainbow has many colors
 green
