@@ -1,9 +1,11 @@
-A rainbow
+A rainbow with rgba colors
 
 An rainbow has many colors
 green
 red
-yello
+yellow
 blue
+rgba(0, 0, 0, 0.5)
 
-This was my poem
+This was my poem but
+with more nice colors.
