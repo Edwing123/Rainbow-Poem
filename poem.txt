@@ -5,7 +5,9 @@ green
 red
 yellow
 blue
+skyblue
 rgba(0, 0, 0, 0.5)
 
 This was my poem but
 with more nice colors.
+I just add a new color
