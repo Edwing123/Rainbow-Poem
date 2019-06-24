@@ -1,13 +1,10 @@
-A rainbow with colors and rgba colors
+A message to the rainbows
 
-An rainbow has many colors
-green
-red
-yellow
-blue
-skyblue
-rgba(0, 0, 0, 0.5)
-
-This was my poem but
-with more nice colors.
-I just add a new color
+Rainbow are desappeared from reality ?
+I don't think they do, they are everywhere,
+color are reflected everywhere just like:
+you tooking at the sky which color is skyblue
+and clouds which color is white ?, maybe when 
+they're happy, gray when they are disgusting
+but if there's one word I could use to describe
+all this thing, I'd rather select `RAINBOW`.
