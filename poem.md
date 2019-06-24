@@ -11,5 +11,5 @@ all this thing, I'd rather select `RAINBOW`.
 
 ## acknowledgement
 thanks to all the people who supports this
-list of them:
+
 - Edwing123
